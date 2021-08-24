@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  background-color: #000;
+  color: white;
+  min-height: 100vh;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  padding-top: 100px;
+}
+
+.page__icon {
+  font-size: 40px;
+}
+
+.page__title {
+  font-size: 50px;
+}
+
+.page__list {
+  max-width: 200px;
+  margin: 0 auto;
+  text-align: left;
+}
