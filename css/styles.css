@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: Helvetica, sans-serif;
 }
 
 .page {
@@ -8,7 +9,6 @@ body {
   color: white;
   min-height: 100vh;
   text-align: center;
-  font-family: Helvetica, sans-serif;
   padding-top: 100px;
 }
 
